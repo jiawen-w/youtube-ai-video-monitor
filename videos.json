@@ -1,0 +1,53 @@
+{
+  "updated_at": "2026-10-16T20:40:00+08:00",
+  "videos": [
+    {
+      "title": "Tyler Cowen and Dwarkesh Patel Predict the Future | Interesting Times",
+      "channel": "Dwarkesh Patel",
+      "date": "2026-10-15",
+      "url": "https://dwarkeshpatel.podhood.com/",
+      "summary": "Dwarkesh 与 Tyler Cowen 对谈 AI 如何改变经济。Patel 认为 AGI 级认知工作可能在一至三年内到来，当前模型仍缺乏持久记忆、规划与经验积累。",
+      "source": "https://bidclub.ai/people/dwarkesh-patel"
+    },
+    {
+      "title": "Si Sheppard – How did a few hundred Spanish soldiers topple two empires?",
+      "channel": "Dwarkesh Patel",
+      "date": "2026-10-01",
+      "url": "https://dwarkeshpatel.podhood.com/",
+      "summary": "与军事历史学家 Si Sheppard 长谈：征服的偶然性、天花如何摧毁帝国、欧洲白银通胀，以及他给出的 AI 接管类比。",
+      "source": "https://dwarkeshpatel.podhood.com/"
+    },
+    {
+      "title": "Lex Fridman Podcast #500 – Khabib Nurmagomedov",
+      "channel": "Lex Fridman",
+      "date": "2026-08-12",
+      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
+      "summary": "Lex 播客第 500 期：与 UFC 传奇 Khabib Nurmagomedov 的对谈（含原始俄语音轨版本）。",
+      "source": "https://lexfridman.com/khabib-nurmagomedov-files/"
+    },
+    {
+      "title": "别再用 AI 手搓 EDA 了，五十年前有人试过",
+      "channel": "老石谈芯",
+      "date": "2026-09-23",
+      "url": "http://m.toutiao.com/group/7688433439648825897/",
+      "summary": "复盘 EDA 巨头 AI 产品：Cadence ChipStack 计划 2026 年推进 Level-5 自主能力，并与谷歌云 Gemini 合作构建云原生 Agent 设计平台。",
+      "source": "http://m.toutiao.com/group/7688433439648825897/"
+    },
+    {
+      "title": "骁龙峰会揭秘：高通的未来不止芯片",
+      "channel": "老石谈芯",
+      "date": "2026-09-20",
+      "url": "https://news.qq.com/omn/author/8QIf3n5f6YQUsDbc5Ao%3D",
+      "summary": "老石谈芯高通骁龙峰会专题：高通的未来布局不止芯片本身。",
+      "source": "https://news.qq.com/omn/author/8QIf3n5f6YQUsDbc5Ao%3D"
+    },
+    {
+      "title": "我曾以为，哲学早就过时了",
+      "channel": "李自然说",
+      "date": "2026-05-26",
+      "url": "http://news.qq.com/rain/a/20260526V05RHW00",
+      "summary": "从 1963 年一篇三页纸论文讲起，聊知识定义问题，分享对哲学看法的一次修正。",
+      "source": "http://news.qq.com/rain/a/20260526V05RHW00"
+    }
+  ]
+}
