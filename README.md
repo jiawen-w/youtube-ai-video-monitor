@@ -6,7 +6,8 @@
 
 ## 监测频道
 
-- **英文 AI 头部**：Lex Fridman（Lex Fridman Podcast）、Dwarkesh Patel（Dwarkesh Podcast）、The AI Daily Brief、Machine Learning Street Talk
+- **英文 AI 播客/博主**：Lex Fridman（Lex Fridman Podcast）、Dwarkesh Patel（Dwarkesh Podcast）、The AI Daily Brief、Machine Learning Street Talk、No Priors、Yannic Kilcher、AI Explained、Cognitive Revolution
+- **官方/公司账号**：OpenAI、Anthropic、Google DeepMind、NVIDIA、Boston Dynamics、Figure、Unitree Robotics、Tesla（关注最新发布/演示/公告类视频）
 - **中文科技大V**：李自然说、老石谈芯、阑夕、硅谷101
 
 ## 更新机制
