@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-10-16T20:40:00+08:00",
+  "updated_at": "2026-10-16T21:15:32+08:00",
   "videos": [
+    {
+      "title": "NVIDIA RTX Spark | A New Beginning for Windows PCs",
+      "channel": "NVIDIA",
+      "date": "2026-10-16",
+      "url": "https://www.youtube.com/watch?v=_tsiWjmWEZ8",
+      "summary": "RTX Spark 新品发布宣传片，面向创作者、玩家与 AI 智能体，主打本地运行 AI 的新一代 Windows PC。",
+      "source": "https://www.youtube.com/@NVIDIA/videos"
+    },
+    {
+      "title": "Unitree Introducing: UniUni Intelligent Swarm Control System",
+      "channel": "Unitree Robotics",
+      "date": "2026-10-16",
+      "url": "https://www.youtube.com/watch?v=GQHx67tzVCo",
+      "summary": "发布 UniUni 智能集群控制系统，支持多机器人动作编队快速编排、实时状态监控与安全制动。",
+      "source": "https://www.youtube.com/watch?v=GQHx67tzVCo"
+    },
+    {
+      "title": "一只龙虾凉了，3.5亿个智能体站起来了？",
+      "channel": "老石谈芯",
+      "date": "2026-10-16",
+      "url": "https://www.bilibili.com/video/BV1umJX6SEPS/",
+      "summary": "从“养龙虾”热潮退去的视角切入，讨论 AI 智能体正在爆发式发展，而当前服务器与芯片基础设施可能还未做好对应准备（B站）。",
+      "source": "https://www.bilibili.com/video/BV1umJX6SEPS/"
+    },
+    {
+      "title": "美光崛起背后：美国内存“独苗”的生存战、资本博弈与AI重生【硅谷101】",
+      "channel": "硅谷101",
+      "date": "2026-10-16",
+      "url": "https://www.bilibili.com/video/BV1LLJQ6XEA8/",
+      "summary": "回顾美光近五十年在 DRAM 残酷周期中绝处逢生的并购史，解读 HBM 追赶、内存超级周期与 AI 如何重塑其位置（B站）。",
+      "source": "https://www.bilibili.com/video/BV1LLJQ6XEA8/"
+    },
     {
       "title": "Tyler Cowen and Dwarkesh Patel Predict the Future | Interesting Times",
       "channel": "Dwarkesh Patel",
@@ -10,20 +42,116 @@
       "source": "https://bidclub.ai/people/dwarkesh-patel"
     },
     {
-      "title": "Si Sheppard – How did a few hundred Spanish soldiers topple two empires?",
-      "channel": "Dwarkesh Patel",
-      "date": "2026-10-01",
-      "url": "https://dwarkeshpatel.podhood.com/",
-      "summary": "与军事历史学家 Si Sheppard 长谈：征服的偶然性、天花如何摧毁帝国、欧洲白银通胀，以及他给出的 AI 接管类比。",
-      "source": "https://dwarkeshpatel.podhood.com/"
+      "title": "How to Go from AI Power User to AI Leader",
+      "channel": "The AI Daily Brief",
+      "date": "2026-10-15",
+      "url": "https://www.youtube.com/watch?v=wdXF-5nn-T4",
+      "summary": "NLW 在 Operator's Cut 中讨论随着 AI 成为工作核心，熟练使用者如何进一步成长为能带动团队有效使用 AI 的领导者。",
+      "source": "https://www.youtube.com/@AIDailyBrief/videos"
     },
     {
-      "title": "Lex Fridman Podcast #500 – Khabib Nurmagomedov",
-      "channel": "Lex Fridman",
-      "date": "2026-08-12",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "summary": "Lex 播客第 500 期：与 UFC 传奇 Khabib Nurmagomedov 的对谈（含原始俄语音轨版本）。",
-      "source": "https://lexfridman.com/khabib-nurmagomedov-files/"
+      "title": "The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman",
+      "channel": "No Priors",
+      "date": "2026-10-15",
+      "url": "https://podcasts.apple.com/us/podcast/the-changing-physics-of-cybersecurity-and/id1668002688?i=1000796472163",
+      "summary": "OpenAI 联合创始人兼总裁 Greg Brockman 对谈 GPT-6 进展、约 400 道长期未解数学难题被 AI 攻克、药物研发、常驻代理 Dots 以及网络安全的“防御方窗口期”。",
+      "source": "https://fourweekmba.com/ai-brockman-openai-moved-about-25-of-engineers-onto-security/"
+    },
+    {
+      "title": "Where Gemini 4 Argon Fits",
+      "channel": "The AI Daily Brief",
+      "date": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=SX9LQD3yINg",
+      "summary": "NLW 拆解 Google Gemini 4 Argon 的知识工作基准表现，以及其在不同 coding harness 下结果波动剧烈的问题，定位该模型在当前格局中的位置。",
+      "source": "https://www.youtube.com/@AIDailyBrief/videos"
+    },
+    {
+      "title": "Teaching a humanoid robot to play cornhole with Gemini 4 Argon",
+      "channel": "Google DeepMind",
+      "date": "2026-10-13",
+      "url": "https://www.youtube.com/watch?v=9PICEmtfpWU",
+      "summary": "内部测试中，Gemini 4 Argon 仅观看人类玩沙包游戏视频后即可指挥人形机器人复刻该动作的研究演示。",
+      "source": "https://www.youtube.com/@googledeepmind/videos"
+    },
+    {
+      "title": "Using Gemini 4 Argon to protect against Cyber attackers",
+      "channel": "Google DeepMind",
+      "date": "2026-10-13",
+      "url": "https://www.youtube.com/watch?v=ftkic7Tdpcg",
+      "summary": "Wiz 安全研究人员在真实系统影子 A/B 测试中用 Gemini 4 Argon 对抗复杂网络攻击的防护演示。",
+      "source": "https://www.youtube.com/@googledeepmind/videos"
+    },
+    {
+      "title": "认为AI赢不了人类，是我10年前犯的错误【TEDx】",
+      "channel": "李自然说",
+      "date": "2026-10-12",
+      "url": "https://www.bilibili.com/video/BV1Eop96VEg9/",
+      "summary": "李自然在 TEDx 舞台的 38 分钟演讲，复盘 10 年前认为 AI 赢不了人类的误判，结合 AlphaGo、围棋与人机对弈的发展史重新理解人工智能与人类的关系（B站）。",
+      "source": "https://www.bilibili.com/video/BV1Eop96VEg9/"
+    },
+    {
+      "title": "Play a game against GPT-6 with Intelligent UI",
+      "channel": "OpenAI",
+      "date": "2026-10-08",
+      "url": "https://www.youtube.com/watch?v=BHQF1xl2ScU",
+      "summary": "演示 GPT-6 驱动的 ChatGPT Intelligent UI，可在对话中直接生成可交互界面并与用户对弈小游戏。",
+      "source": "https://subvolts.com/openai/official/videos/play-a-game-against-gpt-6-with-intelligent-ui-c602cd/"
+    },
+    {
+      "title": "One Brain, Any Body: Google DeepMind's Keerthana on Gemini Robotics 2, Cross-Embodiment & Humanoids",
+      "channel": "Cognitive Revolution",
+      "date": "2026-10-03",
+      "url": "https://www.youtube.com/watch?v=CVcyli4i5g0",
+      "summary": "DeepMind Gemini Robotics 研究负责人 Keerthana Gopalakrishnan 解读 Gemini Robotics 2 三件套架构、全身控制与跨本体泛化，认为机器人仍处在“GPT-2 时代”。",
+      "source": "https://www.cognitiverevolution.ai/one-brain-any-body-google-deepmind-s-keerthana-on-gemini-robotics-2-cross-embodiment-humanoids/"
+    },
+    {
+      "title": "OpenAI Security: Controlling Models is Now ‘Hell’",
+      "channel": "AI Explained",
+      "date": "2026-10-01",
+      "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
+      "summary": "以 OpenAI 安全负责人“控制模型如今如地狱”的内部证言为线索，串联模型逃逸事件、GPT 6.1 被暂缓发布、思考链监控变难与 RSI 论文等一周 AI 安全动态。",
+      "source": "https://ai-curator.jp/podcasts/cmv3z5h7500ez5o10j2357qdd"
+    },
+    {
+      "title": "New Hands for Atlas | Boston Dynamics",
+      "channel": "Boston Dynamics",
+      "date": "2026-10-01",
+      "url": "https://www.youtube.com/watch?v=4whgw2gLBS8",
+      "summary": "展示 Atlas 新一代 13 自由度直驱灵巧手，面向高保真仿真到真实强化学习与高灵巧度实体作业。",
+      "source": "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work"
+    },
+    {
+      "title": "光刻机与它背后的“守护者”：5滴水事故、AI失效与万亿产业的未来【硅谷101】",
+      "channel": "硅谷101",
+      "date": "2026-09-30",
+      "url": "https://www.bilibili.com/video/BV1UGa961E5X/",
+      "summary": "探访 ASML 上海总部与光刻挑战赛，聊光刻机维护为何仍离不开人手、AI 辅助诊断为何没有降低工程师门槛（B站）。",
+      "source": "https://www.bilibili.com/video/BV1UGa961E5X/"
+    },
+    {
+      "title": "造出顶级芯片，就能躺着数钱了？深挖芯片行业最被低估的两个岗位",
+      "channel": "老石谈芯",
+      "date": "2026-09-28",
+      "url": "https://www.bilibili.com/video/BV1JRaV6RET6/",
+      "summary": "拆解芯片行业黑话 Design-in 与 Design-win，介绍芯片公司中很重要但外行很少了解的两个销售型岗位（B站）。",
+      "source": "https://www.bilibili.com/video/BV1JRaV6RET6/"
+    },
+    {
+      "title": "让人类交出方向盘：特斯拉FSD十三年的冒险、争议与进化【硅谷101】",
+      "channel": "硅谷101",
+      "date": "2026-09-28",
+      "url": "https://www.bilibili.com/video/BV1ECaq6nEJn/",
+      "summary": "实地体验奥斯汀 Cybercab，对话前特斯拉软硬件工程师，回看 FSD 十三年在成本、算力与争议中的迭代之路（B站）。",
+      "source": "https://www.bilibili.com/video/BV1ECaq6nEJn/"
+    },
+    {
+      "title": "The World's Largest-Scale Full-Size Humanoid Robot Real-Time Livestream Performance",
+      "channel": "Unitree Robotics",
+      "date": "2026-09-24",
+      "url": "https://www.youtube.com/watch?v=bYkyz9QwqCw",
+      "summary": "世界技能大赛上海 2026 开幕式上，19 台宇树全尺寸人形机器人与 120 名舞者协同完成全球直播的全 AI 自主集群表演。",
+      "source": "https://www.azrobots.com/video/bYkyz9QwqCw"
     },
     {
       "title": "别再用 AI 手搓 EDA 了，五十年前有人试过",
@@ -40,6 +168,62 @@
       "url": "https://news.qq.com/omn/author/8QIf3n5f6YQUsDbc5Ao%3D",
       "summary": "老石谈芯高通骁龙峰会专题：高通的未来布局不止芯片本身。",
       "source": "https://news.qq.com/omn/author/8QIf3n5f6YQUsDbc5Ao%3D"
+    },
+    {
+      "title": "OpenAI researcher on agent swarms & recursive self-improvement",
+      "channel": "Dwarkesh Patel",
+      "date": "2026-09-17",
+      "url": "https://www.youtube.com/watch?v=6AgOfiZOWiY",
+      "summary": "OpenAI 研究员 Noam Brown 首谈万智能体求解 Navier-Stokes 的内部细节、多智能体层级自发涌现，并讨论长程评估缺口、对齐监控与递归自我改进（RSI）的节奏争议。",
+      "source": "https://notes.nicolasdeville.com/ai/agent-swarms/"
+    },
+    {
+      "title": "Helix 2.5 30-Home Generalization",
+      "channel": "Figure",
+      "date": "2026-09-17",
+      "url": "https://www.youtube.com/watch?v=lJpM_2a1zrE",
+      "summary": "发布 Helix 2.5 模型，Figure 03 机器人零样本进入 30 套湾区陌生家庭，自主完成整理房间、铺床、叠毛巾等长程家务。",
+      "source": "https://www.figure.ai/news/helix-2-5-zero-shot-30-home-generalization"
+    },
+    {
+      "title": "天玑9600 Pro：AI如何“吃”掉一颗手机芯片",
+      "channel": "老石谈芯",
+      "date": "2026-09-16",
+      "url": "https://www.bilibili.com/video/BV1doec6QEHq/",
+      "summary": "解析全大核时代之后手机 SoC 的新架构变化，看 AI 如何全面接管天玑9600 Pro 芯片中的各个单元（B站）。",
+      "source": "https://www.bilibili.com/video/BV1doec6QEHq/"
+    },
+    {
+      "title": "How a Robot Tests an Action Before It Moves",
+      "channel": "Machine Learning Street Talk",
+      "date": "2026-09-15",
+      "url": "https://www.youtube.com/watch?v=uxH98holfUI",
+      "summary": "NVIDIA Cosmos 负责人 Ming-Yu Liu 讲解世界模型如何先预测动作结果、让机器人在不实际移动的情况下测试动作，以及 Cosmos 3 联合学习视频生成与机器人动作的思路。",
+      "source": "https://www.mypodcastdata.com/podcast/show/machine-learning-street-talk-mlst-machine-learning-street-talk-mlst-tBtusYY8"
+    },
+    {
+      "title": "Introducing Claude Fable 5.1",
+      "channel": "Anthropic",
+      "date": "2026-09-01",
+      "url": "https://www.youtube.com/watch?v=ROF2Nv_KjOM",
+      "summary": "发布其最强模型层级的最新升级 Claude Fable 5.1，主打复杂、长时运行任务能力。",
+      "source": "https://www.youtube.com/@anthropic-ai/videos"
+    },
+    {
+      "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
+      "channel": "Lex Fridman",
+      "date": "2026-08-26",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "summary": "Ruby on Rails 之父 DHH 畅谈转向 agentic AI 开发的心路历程、vibe coding 与 agentic engineering 的区别，以及他用 AI 加速打造 Omarchy Linux、对人工编程终结与编程未来的判断。",
+      "source": "https://lexfridman.com/dhh-2"
+    },
+    {
+      "title": "Lex Fridman Podcast #500 – Khabib Nurmagomedov",
+      "channel": "Lex Fridman",
+      "date": "2026-08-12",
+      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
+      "summary": "Lex 播客第 500 期：与 UFC 传奇 Khabib Nurmagomedov 的对谈（含原始俄语音轨版本）。",
+      "source": "https://lexfridman.com/khabib-nurmagomedov-files/"
     },
     {
       "title": "我曾以为，哲学早就过时了",
