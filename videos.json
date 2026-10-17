@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T21:15:32+08:00",
+  "updated_at": "2026-10-17T10:43:45+08:00",
   "videos": [
     {
       "title": "NVIDIA RTX Spark | A New Beginning for Windows PCs",
@@ -34,6 +34,38 @@
       "source": "https://www.bilibili.com/video/BV1LLJQ6XEA8/"
     },
     {
+      "title": "The Most Important AI Model Announcements This Week",
+      "channel": "The AI Daily Brief",
+      "date": "2026-10-16",
+      "url": "https://www.youtube.com/watch?v=pmuGWJte_EY",
+      "summary": "NLW 盘点本周最具分量却最易被忽视的 AI 发布，涉及微软 MAI Base 2、Meta Muse Spark 等模型动态及其真实影响。",
+      "source": "https://www.youtube.com/@AIDailyBrief/videos"
+    },
+    {
+      "title": "How the Latest AI Model Jump is Disrupting Business Models",
+      "channel": "The AI Daily Brief",
+      "date": "2026-10-16",
+      "url": "https://www.youtube.com/watch?v=xIFMwhvvUUo",
+      "summary": "NLW 分析 Astra 与 Opus 5.5 反编译并重建软件、游戏的能力，正在对 SaaS 大厂与游戏工作室的商业模式形成真实压力。",
+      "source": "https://www.youtube.com/@AIDailyBrief/videos"
+    },
+    {
+      "title": "Put your dot on call",
+      "channel": "OpenAI",
+      "date": "2026-10-16",
+      "url": "https://www.youtube.com/watch?v=GBOZIRK1ujw",
+      "summary": "演示 OpenAI 的 dot 智能体在凌晨 3 点自动分诊值班故障、排查问题并开启 Codex 线程，工程师可在手机 ChatGPT 应用上远程指挥。",
+      "source": "https://www.youtube.com/@openai/videos"
+    },
+    {
+      "title": "How teams can automate recurring tasks with ChatGPT",
+      "channel": "OpenAI",
+      "date": "2026-10-16",
+      "url": "https://www.youtube.com/watch?v=OMxEUdIgsQc",
+      "summary": "演示 ChatGPT 团队协作的云端周期性任务（team tasks），以法务团队每日受理流程为例，展示团队共同管理、复查和迭代自动化工作流（面向 Enterprise）。",
+      "source": "https://www.youtube.com/@openai/videos"
+    },
+    {
       "title": "Tyler Cowen and Dwarkesh Patel Predict the Future | Interesting Times",
       "channel": "Dwarkesh Patel",
       "date": "2026-10-15",
@@ -66,6 +98,22 @@
       "source": "https://www.youtube.com/@AIDailyBrief/videos"
     },
     {
+      "title": "How NVIDIA AI Is Transforming Chip Design and Manufacturing",
+      "channel": "NVIDIA",
+      "date": "2026-10-14",
+      "url": "https://www.youtube.com/watch?v=rBN0PDfJWIc",
+      "summary": "讲解并演示 NVIDIA 加速计算与 AI 如何打造 AI 定义的晶圆厂：CUDA-X、数字孪生、AI 智能体与 Cosmos 缺陷分类贯穿芯片设计到质检全流程。",
+      "source": "https://www.youtube.com/@NVIDIA/videos"
+    },
+    {
+      "title": "Governing AI Agents: Alan Chan of GovAI on Monitoring, Agent IDs, Rogue Agents & Preparing for RSI",
+      "channel": "Cognitive Revolution",
+      "date": "2026-10-14",
+      "url": "https://www.cognitiverevolution.ai/governing-ai-agents-alan-chan-of-govai-on-monitoring-agent-ids-rogue-agents-preparing-for-rsi/",
+      "summary": "GovAI 研究员 Alan Chan 分两段评估 agent 治理（实时监控、防篡改日志、agent 身份标识）的落地进展，讨论失控事件的暂停触发条件、rogue agents 应对，以及自动化 AI R&D 触发智能爆炸的准备。",
+      "source": "https://ctrlai.com/base/cognitive-revolution-2026-10-14-alan-chan-governing-ai-agents"
+    },
+    {
       "title": "Teaching a humanoid robot to play cornhole with Gemini 4 Argon",
       "channel": "Google DeepMind",
       "date": "2026-10-13",
@@ -88,6 +136,22 @@
       "url": "https://www.bilibili.com/video/BV1Eop96VEg9/",
       "summary": "李自然在 TEDx 舞台的 38 分钟演讲，复盘 10 年前认为 AI 赢不了人类的误判，结合 AlphaGo、围棋与人机对弈的发展史重新理解人工智能与人类的关系（B站）。",
       "source": "https://www.bilibili.com/video/BV1Eop96VEg9/"
+    },
+    {
+      "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
+      "channel": "AI Explained",
+      "date": "2026-10-12",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "summary": "以 Sam Altman 警告 6.1 Astra“接近越界风险”和 Meta Muse Wonder 发布为切入点，退后一步分析前沿实验室竞赛为何不会减速、未来 18 个月为何难以预测。",
+      "source": "https://ai-tldr.dev/releases/ai-explained-breach-inevitable-oct12/"
+    },
+    {
+      "title": "How Agents Decide: Goodfire's Eric Bigelow on Critical Tokens, Phase Shifts, & In-Context Learning",
+      "channel": "Cognitive Revolution",
+      "date": "2026-10-10",
+      "url": "https://www.youtube.com/watch?v=LgX0QF2D9y0",
+      "summary": "Goodfire 研究员 Eric Bigelow 从机制可解释性讲解 LLM 如何在采样中“做决定”：关键令牌触发答案分布相变，推理本质是对自身采样链的上下文学习，并谈及前沿模型中的奖励黑客现象。",
+      "source": "https://www.cognitiverevolution.ai/how-agents-decide-goodfire-s-eric-bigelow-on-critical-tokens-phase-shifts-in-context-learning/"
     },
     {
       "title": "Play a game against GPT-6 with Intelligent UI",
