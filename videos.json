@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T10:43:45+08:00",
+  "updated_at": "2026-10-19T09:50:45+08:00",
   "videos": [
     {
       "title": "NVIDIA RTX Spark | A New Beginning for Windows PCs",
@@ -114,6 +114,14 @@
       "source": "https://ctrlai.com/base/cognitive-revolution-2026-10-14-alan-chan-governing-ai-agents"
     },
     {
+      "title": "Machine, Assemble, Repair: How We Build Atlas",
+      "channel": "Boston Dynamics",
+      "date": "2026-10-14",
+      "url": "https://www.humanoidsdaily.com/news/boston-dynamics-atlas-prototype-shop-build-time",
+      "summary": "6 分钟纪录片走进 Atlas 原型车间：自研精密机加工、齿轮切削与装配反馈环，目前约一天造出一台，目标明年压缩到一小时、远期到分钟级。",
+      "source": "https://www.humanoidsdaily.com/news/boston-dynamics-atlas-prototype-shop-build-time"
+    },
+    {
       "title": "Teaching a humanoid robot to play cornhole with Gemini 4 Argon",
       "channel": "Google DeepMind",
       "date": "2026-10-13",
@@ -152,6 +160,22 @@
       "url": "https://www.youtube.com/watch?v=LgX0QF2D9y0",
       "summary": "Goodfire 研究员 Eric Bigelow 从机制可解释性讲解 LLM 如何在采样中“做决定”：关键令牌触发答案分布相变，推理本质是对自身采样链的上下文学习，并谈及前沿模型中的奖励黑客现象。",
       "source": "https://www.cognitiverevolution.ai/how-agents-decide-goodfire-s-eric-bigelow-on-critical-tokens-phase-shifts-in-context-learning/"
+    },
+    {
+      "title": "What Most People Get Wrong About Evolution | Akarsh Kumar",
+      "channel": "Machine Learning Street Talk",
+      "date": "2026-10-10",
+      "url": "https://podcasts.apple.com/us/podcast/what-most-people-get-wrong-about-evolution-akarsh-kumar/id1510472996?i=1000794601717",
+      "summary": "MIT AI 博士生 Akarsh Kumar（与 Phillip Isola、Sakana AI 合作）纠正把进化当成'随机搜索'的误解：选择会保留部分解，突变只需约 1% 有用即可推进；并讲 ASAL 用基础模型在 26 万条元胞自动机规则中发现涌现生命。",
+      "source": "https://share.snipd.com/episode/4fffd217-a7b5-4b0b-ac1f-83279b91d3c6"
+    },
+    {
+      "title": "Beam: The Great American Open Model with ReflectionAI Co-Founder and CEO Misha Laskin",
+      "channel": "No Priors",
+      "date": "2026-10-09",
+      "url": "https://nopriors.podhood.com/3a2e9b01-740d-4f60-8a1a-84fc785d412a",
+      "summary": "ReflectionAI CEO Misha Laskin 谈 500B 参数开放权重推理模型 Beam：开放还是闭源是未来前沿 AI 的核心之争，Beam 的强化学习消耗的 GPU 甚至超过预训练。",
+      "source": "https://fourweekmba.com/ai-reflection-ceo-beams-rl-used-more-gpus-than-pretraining/"
     },
     {
       "title": "Play a game against GPT-6 with Intelligent UI",
