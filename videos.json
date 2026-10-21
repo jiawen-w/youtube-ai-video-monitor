@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-19T09:50:45+08:00",
+  "updated_at": "2026-10-21T09:36:36+08:00",
   "videos": [
+    {
+      "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+      "channel": "硅谷101",
+      "date": "2026-10-20",
+      "url": "https://www.youtube.com/watch?v=lsANSvYQks0",
+      "summary": "泓君对话破壳机器人创始人许华哲、Pokee.ai 创始人朱哲清与华盛顿大学王晟，围绕 GPT-6 Astra 讨论个人 Agent 商业化卡点、Astra 对机器人 Sim-to-Real 与本体硬件的冲击，以及 AI 制药真实瓶颈在湿实验验证与数据积累（YouTube）。",
+      "source": "https://101.podhood.com/"
+    },
+    {
+      "title": "A Potentially Historic AI Breakthrough",
+      "channel": "The AI Daily Brief",
+      "date": "2026-10-18",
+      "url": "https://podcasts.apple.com/sr/podcast/a-potentially-historic-ai-breakthrough/id1680633614?i=1000796918881",
+      "summary": "NLW 解读前 OpenAI 研究员 Nick Cammarata 的新论文：神经网络可能比研究者以为的更可解释，多年表观复杂性或源于观察方式偏差，更大模型反而可能更易解读，并探讨这对检测 AI 欺骗的意义（Apple Podcasts，24 分钟）。",
+      "source": "https://already-clean.goodfire.com/"
+    },
     {
       "title": "NVIDIA RTX Spark | A New Beginning for Windows PCs",
       "channel": "NVIDIA",
