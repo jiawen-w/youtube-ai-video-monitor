@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-10-21T09:36:36+08:00",
+  "updated_at": "2026-10-22T09:53:32+08:00",
   "videos": [
+    {
+      "title": "Introducing Claude Duet",
+      "channel": "Anthropic",
+      "date": "2026-10-21",
+      "url": "https://www.youtube.com/watch?v=Fb-68zqcSVs",
+      "summary": "Anthropic 推出主动式个人智能体应用 Claude Duet：Claude 主动带上来需要你关注的事，放下手机后仍在后台持续执行，代为行动前先征求你确认；研究预览经候补名单向美国 Pro/Max 用户开放。",
+      "source": "https://claude.com/claude-duet"
+    },
+    {
+      "title": "Introducing NVIDIA OpenShell Reference Architecture for Safer AI Agents",
+      "channel": "NVIDIA",
+      "date": "2026-10-21",
+      "url": "https://www.youtube.com/watch?v=xaHdyqGtG1M",
+      "summary": "GTC Berlin 2026 发布 OpenShell 参考架构：一套覆盖全栈、用于保障自主 AI 智能体安全的开放软硬件架构，说明为何仅靠模型对齐不够，以及模型、工具、harness 与运行时如何分层治理。",
+      "source": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/"
+    },
+    {
+      "title": "Unitree Introducing: H2-X Kung Fu Legend Guardian",
+      "channel": "Unitree Robotics",
+      "date": "2026-10-21",
+      "url": "https://www.youtube.com/watch?v=Y3zb4o47yqA",
+      "summary": "宇树发布 H2-X“功夫传奇·守护”人形机器人演示：真实未加速画面中完成4米高台跳下接后空翻、高踢腿、抬车救援与挡刀防护桥段，标称续航约8小时，主打安防护卫概念。",
+      "source": "https://www.originofbots.com/news/unitree-h2-x-the-kung-fu-guardian-robot-built-to-stand-watch-for-about-eight-hours"
+    },
+    {
+      "title": "Why AI Companies Are Betting Personality Beats Intelligence",
+      "channel": "The AI Daily Brief",
+      "date": "2026-10-21",
+      "url": "https://www.youtube.com/watch?v=FSX5JFJS9PQ",
+      "summary": "智能日益商品化后，AI“人格”成为新战场：新的 Artificial Analysis 基准开始测量温暖感、想象力、slop 等特质，NLW 从 DeepSeek 推理热、GPT-4o 风波讲到 Opus 5，并分析 Meta Muse 为何靠角色感取胜。",
+      "source": "https://www.youtube.com/@AIDailyBrief/videos"
+    },
     {
       "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
       "channel": "硅谷101",
@@ -8,6 +40,14 @@
       "url": "https://www.youtube.com/watch?v=lsANSvYQks0",
       "summary": "泓君对话破壳机器人创始人许华哲、Pokee.ai 创始人朱哲清与华盛顿大学王晟，围绕 GPT-6 Astra 讨论个人 Agent 商业化卡点、Astra 对机器人 Sim-to-Real 与本体硬件的冲击，以及 AI 制药真实瓶颈在湿实验验证与数据积累（YouTube）。",
       "source": "https://101.podhood.com/"
+    },
+    {
+      "title": "The AI Wealth Problem",
+      "channel": "The AI Daily Brief",
+      "date": "2026-10-20",
+      "url": "https://www.youtube.com/watch?v=bw8nHS0_cl0",
+      "summary": "Anthropic 新设公共公益基金、承诺约两成股份回馈公众，围绕 AI 财富、权力与民主的争论升温；NLW 拆解各方褒贬与 Anthropic 提出的 AI 安全法案，以及安全倡导者的不满，附 OpenCode 网络攻击、AI 泡沫担忧等头条。",
+      "source": "https://www.youtube.com/@AIDailyBrief/videos"
     },
     {
       "title": "A Potentially Historic AI Breakthrough",
