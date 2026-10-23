@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-22T09:53:32+08:00",
+  "updated_at": "2026-10-23T09:48:33+08:00",
   "videos": [
+    {
+      "title": "What will computer chips look like in 2045?",
+      "channel": "Dwarkesh Patel",
+      "date": "2026-10-22",
+      "url": "https://www.youtube.com/watch?v=frYSOKvNiiE",
+      "summary": "Dwarkesh 花两天走访 Intel 最先进晶圆厂并访谈技术领导层，配动画讲解未来芯片的 GAA 晶体管、背面供电、CFET、混合键合等技术路线，并探讨半导体行业如何应对 AI 带来的巨大需求冲击。",
+      "source": "https://www.youtube.com/@dwarkeshpatel/videos"
+    },
+    {
+      "title": "How AI is Changing What Work Means",
+      "channel": "The AI Daily Brief",
+      "date": "2026-10-22",
+      "url": "https://www.youtube.com/watch?v=65EUWUM-clM",
+      "summary": "以金融研究机构 Citrini Research 用 AI 设计靶向蝎毒蛋白的意外实验切入，讨论 AI 正在重塑“何为工作”：谁有资格做科学、AI 实验室是否会与客户竞争、公司能在多大程度上突破传统专长；附 Muse 破千万下载、Gemini 进入 Android Auto 等头条。",
+      "source": "https://www.youtube.com/@AIDailyBrief/videos"
+    },
+    {
+      "title": "重新定义个人电脑，老黄到底凭什么？RTX Spark深度解析",
+      "channel": "老石谈芯",
+      "date": "2026-10-22",
+      "url": "https://www.bilibili.com/video/BV171n26DE9h/",
+      "summary": "24分钟长视频深度解析 NVIDIA RTX Spark：拆解这台为本地个人 AI 智能体打造的新 PC 的架构逻辑，以及它凭什么重新定义个人电脑（B站）。",
+      "source": "https://www.bilibili.com/video/BV171n26DE9h/"
+    },
     {
       "title": "Introducing Claude Duet",
       "channel": "Anthropic",
